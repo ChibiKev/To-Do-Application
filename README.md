@@ -23,6 +23,7 @@ The following **optional** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 Users can add/remove/edit items on their to do list
+
 ![](gif/walkthrough.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
